@@ -1,3 +1,5 @@
+# Predicting stock returns using machine learning
+
 In this work, I use XGBoost regressor to predict the stock returns in the following two days. It is for "the Winton Stock Market Challenge" in Kaggle competition.
 
 I also tried using deep neural networks (DNNs), but they do not perform as good as the XGBoost regressor.
